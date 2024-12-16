@@ -27,7 +27,7 @@ library(plotly) #pie chart
 
 Step 2: Prepare the data and if needed, combine them in one data frame.
 ```{r}
-setwd("C:/Users/Emily/Downloads/data")
+setwd("/cloud/project/mturkfitbit_export_4.12.16-5.12.16/Fitabase Data 4.12.16-5.12.16")
 
 daily_activity <- read.csv("dailyActivity_merged.csv")
 sleep_day <- read.csv("sleepDay_merged.csv")
