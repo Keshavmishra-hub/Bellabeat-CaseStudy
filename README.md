@@ -238,7 +238,8 @@ ggplot(data=merged_data, aes(x=TotalMinutesAsleep, y = Calories, color=TotalMinu
 
 ## 5. Share 
 
-### 🎨 [Bellabeat Data Analysis Dashboard](https://public.tableau.com/views/BellaBeatCaseStudy_17343479889740/BellaBeatCaseStudy03?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### This analysis can be shared visually through [Bellabeat Data Analysis Dashboard](https://public.tableau.com/views/BellaBeatCaseStudy_17343479889740/BellaBeatCaseStudy03?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) which includes interactive graphs summarizing key metrics, correlations, and trends identified in the dataset.
+
 
 ## 6. Act
 
@@ -250,13 +251,30 @@ Conclusion based on our analysis:
 Users who are sedentary take minimal steps and burn 1500 to 2500 calories compared to users who are more active, take more steps, but still burn similar calories.
 
 
+Recommendations for Bellabeat:
+**Activity Engagement Campaigns:**
+Target users who are primarily sedentary to increase very active and fairly active minutes. Create motivational challenges using Bellabeat's app to achieve fitness goals aligned with WHO recommendations.
 
-Marketing recommendations to expand globally:
+**Weekend Activity Promotions:**
+Leverage the spike in activity on Saturdays by organizing community-based events or virtual fitness classes.
 
-##### 🔢  Obtain more data for an accurate analysis, encouraging users to use a wifi-connected scale instead of manual weight entries. 
+**Sleep Quality Improvement:**
+Encourage better sleep hygiene using Bellabeat’s devices by integrating features to monitor bedtime routines and provide actionable tips to reduce awake time in bed.
 
-##### 🚲  Educational healthy style campaign encourages users to have short active exercises during the week, longer during the weekends, especially on Sunday where we see the lowest steps and most sedentary minutes.
+**Personalized Recommendations:**
+Develop personalized fitness and wellness insights through the Bellabeat app, incorporating trends from activity, sleep, and calorie expenditure.
 
-##### 🎁  Educational healthy style campaign can pair with a point-award incentive system. Users completing the whole week's exercise will receive Bellabeat points on products/memberships.
+**Targeted Marketing Strategies:**
+Emphasize the importance of comprehensive health tracking and use data to highlight Bellabeat’s advantages over competitors in providing holistic insights for women’s health.
 
-##### 🏃‍♂️ The product, such as Leaf wellness tracker, can beat or vibrate after a prolonged period of sedentary minutes, signaling the user it's time to get active! Similarly, it can also remind the user it's time to sleep after sensing a prolonged awake time in bed.
+**Collecting More Accurate Data:** 
+Encourage users to switch from manual weight entries to a Wi-Fi-connected scale for more precise and consistent tracking. 
+
+**Promote Active Lifestyles:** 
+Launch an educational campaign highlighting the benefits of short, daily exercises during the week, with a focus on longer activities over the weekend—especially on Sundays, when steps tend to drop, and sedentary minutes increase. 
+
+**Reward Healthy Habits:**
+Combine the educational campaign with a point-based reward system. Users who complete a full week of exercises can earn Bellabeat points, redeemable for products or memberships. 
+
+**Smart Activity Reminders:** 
+Enhance wellness trackers like the Leaf by adding subtle vibrations or beeps after prolonged sedentary periods to nudge users to move. Similarly, the device can remind users to sleep if it detects extended wakefulness in bed. 
